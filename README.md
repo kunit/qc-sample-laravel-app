@@ -1,1 +1,1 @@
-# qc-sample-laravel-app - Query Checker for tcpdp sample app (PHP Laravel)
+# qc-sample-laravel-app - sample PHP Laravel app for qc (Query Checker for tcpdp)
